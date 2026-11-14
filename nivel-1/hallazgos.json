@@ -1,0 +1,56 @@
+[
+  {
+    "contrato": "C-101",
+    "clausula": "C01",
+    "articulo": 12,
+    "explicacion": "El depósito pactado de 1,90 cánones base (1.900 calines sobre un canon de 1.000) excede el máximo ordinario de 1,35 cánones base del Art. 12. El valor de 1,90 corresponde al tope anterior, sustituido por el Art. 40 desde el 01/03/2026; el contrato se celebró el 02/09/2026, por lo que rige el texto reformado. No procede la excepción de vivienda equipada del Art. 13, porque la cláusula y el Anexo II declaran que la unidad se entrega sin bienes muebles exentos (puerta, ventana, calefón y mesada son instalaciones fijas que no cuentan). Tampoco hay hogar protegido del Art. 29. Por el Art. 3 el exceso queda sustituido por el máximo legal de 1.350 calines, sin invalidar el resto del contrato."
+  },
+  {
+    "contrato": "C-101",
+    "clausula": "C03",
+    "articulo": 18,
+    "explicacion": "La cláusula autoriza inspecciones con doce horas de aviso, en cualquier horario y sin aceptación del ocupante, aun sin emergencia. El Art. 18 exige para toda visita aviso de cuarenta y dos horas, consentimiento y horario entre las nueve y las dieciocho, y sólo permite ingresar sin ese plazo ante riesgo material inminente de incendio, inundación o derrumbe, con asistencia técnica. Además aclara que no basta el deseo de inspeccionar. Se vulneran las tres garantías a la vez. Por el Art. 3 la firma no convalida esa renuncia, y la cláusula queda sustituida por el régimen legal. Rige también la protección de intimidad del Art. 28."
+  },
+  {
+    "contrato": "C-101",
+    "clausula": "C04",
+    "articulo": 11,
+    "explicacion": "Aunque respeta los cuatro días de tolerancia del Art. 10, la cláusula fija un interés moratorio simple diario de 0,25 % con acumulación máxima de 3,8 % por ciclo. El Art. 11 vigente limita el interés a 0,08 % diario del canon vencido impago y su acumulación a 2,4 % por ciclo. El Art. 40 sustituyó desde el 01/03/2026 el anterior 0,12 % diario por 0,08 %, y el contrato es del 02/09/2026. Ambos parámetros pactados superan los topes (incluso el diario supera el tope derogado). Por el Art. 3 se reducen a los máximos legales; se admite un interés menor, nunca uno mayor."
+  },
+  {
+    "contrato": "C-102",
+    "clausula": "C06",
+    "articulo": 14,
+    "explicacion": "La cláusula retiene todo el depósito durante sesenta días desde la entrega de llaves sin individualizar daños ni gastos. El Art. 14 obliga a restituir el saldo dentro de once días, y sólo permite descontar deuda individualizada y daño imputable con respaldo; el desgaste normal no es daño. La única retención adicional admitida es una reserva de hasta 0,22 del último canon por nueve días más, cuando ya existe un gasto de reparación identificado sin presupuesto, entregando el resto en término. Retener el 100 % (1,65 cánones base) por sesenta días sin causa individualizada excede plazo, monto y presupuesto habilitante. Rige el plazo legal por el Art. 3."
+  },
+  {
+    "contrato": "C-102",
+    "clausula": "C07",
+    "articulo": 5,
+    "explicacion": "Se pacta un plazo inicial de doce ciclos para una locación ordinaria, y la propia cláusula declara que no se invoca traslado ni estadía de estudios. El Art. 5 fija una duración inicial mínima de diecinueve ciclos y dispone que sólo el supuesto del Art. 6 permite reducirla; este exige constancia certificada previa de traslado laboral o cursada y otra vivienda habitual individualizada, y el Anexo II no contiene ninguna. Por lo tanto el plazo se integra hasta el mínimo legal de diecinueve ciclos, conforme a los Arts. 3 y 5."
+  },
+  {
+    "contrato": "C-102",
+    "clausula": "C08",
+    "articulo": 8,
+    "explicacion": "La cláusula prevé aumentos del 12 % cada tres ciclos desde la firma y aclara que no hay opción cooperativa. El Art. 8 exige seis ciclos completos desde la fijación anterior para cada ajuste y limita el incremento al 7,3 % del canon anterior, o a la variación del índice cívico publicado (Art. 38) si fuera menor. Sólo la opción cooperativa del Art. 9 puede alterar intervalos y topes, y aun ella requiere cooperativa inscripta, unanimidad, libros y crecimiento certificado de ingresos, y tiene un tope de 9,1 % cada cuatro ciclos. El intervalo y el porcentaje pactados violan ambos límites; por el Art. 3 rige el régimen del Art. 8."
+  },
+  {
+    "contrato": "C-103",
+    "clausula": "C01",
+    "articulo": 37,
+    "explicacion": "Se cobra obligatoriamente, al firmar, un arancel de apertura de 0,17 del canon base (255 calines), con fundamento en el Art. 36. Ese artículo fue derogado íntegramente por el Art. 40 desde el 01/03/2026, y el propio texto consolidado del Art. 36 declara que carece de vigencia para los contratos alcanzados; este contrato es del 04/09/2026. Al no haber autorización vigente, rige la prohibición del Art. 37: fuera de consumos, indemnizaciones, garantías y gastos expresamente autorizados, no se impone tasa de apertura. Tampoco se trata de un trabajo separado y libremente solicitado, ya que es condición obligatoria para acceder a la vivienda. Por el Art. 3 el cargo es inexigible."
+  },
+  {
+    "contrato": "C-103",
+    "clausula": "C06",
+    "articulo": 22,
+    "explicacion": "La cláusula respeta los cuatro ciclos y el preaviso de veintitrés días del Art. 22, pero fija una indemnización por salida anticipada de 0,90 cánones vigentes aun sin deuda. El Art. 22 limita ese pago a un máximo de 0,38 del canon vigente, y lo excluye por completo cuando la salida responde a una reparación esencial incumplida e intimada según el Art. 17. El excedente funciona como penalidad fija prohibida por el Art. 37. Por el Art. 3 la indemnización se reduce al tope legal de 0,38 cánones vigentes."
+  },
+  {
+    "contrato": "C-103",
+    "clausula": "C07",
+    "articulo": 17,
+    "explicacion": "La cláusula concede al locador treinta días desde el aviso para resolver tanto reparaciones estructurales como un peligro actual para el suministro esencial. El Art. 17 exige resolver el defecto estructural dentro de ocho días y el peligro actual para la salud o el suministro esencial dentro de dieciocho horas. Ambos plazos pactados exceden los máximos legales y postergan la facultad del locatario de intervenir y compensar hasta 0,65 del canon vigente por episodio, así como la salida sin indemnización del Art. 22. Son garantías de habitación imperativas; por el Art. 3 rigen los plazos legales."
+  }
+]
